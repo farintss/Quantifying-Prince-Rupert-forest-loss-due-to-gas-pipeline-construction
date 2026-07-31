@@ -1,2 +1,2 @@
 # Quantifying Prince Rupert forest loss due to gas pipeline construction
-This project looks at: Quantifying Anticipated Forest Loss from the Prince Rupert Gas Transmission Pipeline Construction through Landsat 8 satellite imagery using open-sourced NTEMS data
+This us a passion project looks at: Quantifying Anticipated Forest Loss from the Prince Rupert Gas Transmission Pipeline Construction through Landsat 8 satellite imagery using open-sourced NTEMS data
